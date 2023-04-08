@@ -7,7 +7,7 @@
     :wave: Hi! I design for <a href="https://www.optimism.io/">Optimism</a>.
     <br>Before that, I designed at GitHub for 4+ years!
       <br>I think GitHub is <em>so cool</em> and still use it :D
-    <br>Today, I'm still learning to make things :sparkles:<br><br>
+    <br>Today, I'm still learning to make things :sparkles:
     <br><br>:coffee: Wanna chat? :point_right: @ me on <a href="javascript:;">2051945915@qq.com</a>
   </samp>
 </p>
